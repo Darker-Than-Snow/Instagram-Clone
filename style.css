@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    justify-content: flex-end;
+    width: 450px;
+    height: 450px;
+    transform: translateX(500px);
+    padding-top: 100px;
+}
